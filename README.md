@@ -1,4 +1,4 @@
-# 👋 About me: Jack of All Trades, King of Some Trades. 👋
+# 👋 About me: Jack of All Trades, King of Some. 👋
 ## 👀 I’m interested in...
   * ✨✨✨ __`Cool technology`__ ✨✨✨
 
@@ -22,10 +22,10 @@
 
 | Vendor |	Model |	CPU |	Cores	| RAM | PRICE |
 | :---------:    |:-------:    |     :---:    |     :---:    |     :---:    | :---: |
-| Raspberry Pi |	CM4 |	Broadcom BCM2711 |	4 |	2, 4, 8 | $$ |
+| Raspberry Pi |	CM4 |	Broadcom BCM2711 |	4 |	2, 4, 8 | $ |
 | Nvidia	Jetson  |	Nano |	Quad-core ARM Cortex-A57 MPCore |	4 |	2, 4 | $$ |
-| Nvidia	Jetson  |	TX2 NX | Dual-core NVIDIA Denver 2, Quad-core ARM A57 Complex	| 6	| 4 | $$ |
-| Nvidia	Jetson |	Xavier NX |	NVIDIA Carmel ARM®v8.2 |	6	| 8 |	 $$ |
+| Nvidia	Jetson  |	TX2 NX | Dual-core NVIDIA Denver 2, Quad-core ARM A57 Complex	| 6	| 4 | $$$ |
+| Nvidia	Jetson |	Xavier NX |	NVIDIA Carmel ARM®v8.2 |	6	| 8 |	 $$$$ |
 | Turing Pi	 |	TCM	 |	TBA	 |	TBA |		TBA | TBA |
 
   - Currently own a small cluster of 4 Khadas VIM3s, 2x VIM3 Basic and 2x VIM3 Pro.
